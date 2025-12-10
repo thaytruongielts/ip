@@ -1,0 +1,7 @@
+{
+  "name": "IELTS Practice App",
+  "description": "A comprehensive IELTS practice application including Reading, Listening, Writing, and Speaking modules.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
